@@ -1,7 +1,7 @@
 {
-  "name": "typescript-base",
+  "name": "fizzbuzz-kata",
   "version": "1.0.0",
-  "description": "TypeScript base example project",
+  "description": "Fizzbuzz kata with Typescript and Jest",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "scripts": {
